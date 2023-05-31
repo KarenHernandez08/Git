@@ -70,3 +70,5 @@ git commit -a -m "Agregando nuevas funcionalidades al archivo X"
 `git add .` para agregar todos los archivos4
 
 `git push origin <Nombre de la rama>` se publica nuestra rama 
+
+`git checkout <Nombre de la rama>` par posiscionarnos en la rama

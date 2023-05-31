@@ -16,6 +16,8 @@ Curso de codigo facilito por Manuela Castrillón.
 
 `Rama main` Es la rama que contiene la versión más estable
 
+`Ramas` Bifurcaciones del flujo del trabajo
+
 ---
 # Terminal de git
 Para configurar nuestro Nombre vamos a colocar
@@ -60,3 +62,7 @@ git push origin main "Subirlo a la rama original"
 git commit -a -m "Agregando nuevas funcionalidades al archivo X"
 
 ```
+
+`git branch` para ver las ramas que tenemos
+
+`git switch -c <nombre de la rama>` para crear una rama

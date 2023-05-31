@@ -38,3 +38,25 @@ git congif --user.email "<tuEmail>"
 `git clone <url del repositorio>` para clonar un repositorio remoto a local
 
 `git status` para verificar el estado del repositorio local
+
+
+***
+El proceso que segui para subir este repositorio
+
+```git
+
+git init
+
+git clone <ssh> "aquí ya tenia el repositorio remoto"
+
+cd <Nombre de el repositorio clonado>
+
+git add <Nombre del archivo>
+
+git commit -m "comentario o mensaje"
+
+git push origin main "Subirlo a la rama original"
+
+git commit -a -m "Agregando nuevas funcionalidades al archivo X"
+
+```

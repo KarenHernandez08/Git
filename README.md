@@ -66,3 +66,9 @@ git commit -a -m "Agregando nuevas funcionalidades al archivo X"
 `git branch` para ver las ramas que tenemos
 
 `git switch -c <nombre de la rama>` para crear una rama
+
+`git add .` para agregar todos los archivos4
+
+`git push origin <Nombre de la rama>` se publica nuestra rama 
+
+`git checkout <Nombre de la rama>` para posiscionarnos en la rama

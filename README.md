@@ -20,6 +20,8 @@ Curso de codigo facilito por Manuela Castrillón.
 
 `Issues` Espacio en el que podemos escribir y dar seguimiento a tareas, bugs, ideas e incluso retroalimentación
 
+`pull request` solicitud para integrar los cambios en una rama diferente
+
 ---
 # Terminal de git
 Para configurar nuestro Nombre vamos a colocar

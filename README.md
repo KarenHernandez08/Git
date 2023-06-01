@@ -18,6 +18,8 @@ Curso de codigo facilito por Manuela Castrillón.
 
 `Ramas` Bifurcaciones del flujo del trabajo
 
+`Issues` Espacio en el que podemos escribir y dar seguimiento a tareas, bugs, ideas e incluso retroalimentación
+
 ---
 # Terminal de git
 Para configurar nuestro Nombre vamos a colocar

@@ -82,3 +82,18 @@ git commit -a -m "Agregando nuevas funcionalidades al archivo X"
 `git merge <la que tiene los cambios>` para integrar los cambios a la otra rama
 
 `git pull origin main` ver que la rama este actualizada
+
+
+---
+
+## GitHub Pages
+
+Para subir un proyecto web estatico, nos da un dominio web. <nombredeusuario>.github.io 
+
+sitio web estático: se muestra tal como está almacenado y todos los usuarios ven la misma información. (portafolio, proyectos pequeños, o proyectos de documentación)
+
+creamos nuestro repositorio y nos vamos a settings y en pages lo vamos a subir.
+
+---
+
+

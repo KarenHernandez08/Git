@@ -72,3 +72,12 @@ git commit -a -m "Agregando nuevas funcionalidades al archivo X"
 `git push origin <Nombre de la rama>` se publica nuestra rama 
 
 `git checkout <Nombre de la rama>` para posiscionarnos en la rama
+<<<<<<< HEAD
+=======
+
+`git switch <rama>` este igual es para posicionarnos a la rama
+
+`git merge <la que tiene los cambios>` para integrar los cambios a la otra rama
+
+`git pull origin main` ver que la rama este actualizada
+>>>>>>> main

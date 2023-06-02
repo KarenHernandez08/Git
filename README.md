@@ -96,4 +96,22 @@ creamos nuestro repositorio y nos vamos a settings y en pages lo vamos a subir.
 
 ---
 
+## Markdown
 
+Lenguaje de Markup que nos permite escribir texto formateado con una sintaxis simple, que es facil de leer y escribir
+
+shields.io
+
+---
+
+## Open Source Software (OSS)
+
+Software que tiene un tipo de licencia especial que permite el uso, modificación y distribución a cualquier persona.
+
+¿Cómo contribuir en open source?
+- código
+- documentación
+- diseño
+- reporte de errores
+- generación de ideas
+- creación de contenido
